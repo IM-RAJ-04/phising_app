@@ -1,0 +1,7 @@
+Username: 123, Password: 123
+Username: senn, Password: pass
+Username: senn, Password: 555
+Username: senn123, Password: 123senn
+Username: presen, Email: presen@gmail.com, Password: password
+Username: raj, Email: raj123@gmail.com, Password: raj123
+Username: newAccount, Email: newAccount123@gmail.com, Password: newpass123
